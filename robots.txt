@@ -1,0 +1,3 @@
+User-agent: *
+Allow: / 
+Sitemap: http://focusfoodservice.com/sitemap.xml
